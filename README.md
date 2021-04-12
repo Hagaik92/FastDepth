@@ -21,7 +21,7 @@ we also provide demo for depth estimation, and code for semantic segmentation th
 
  - Clone repository:
     ```bash
-    git clone https://github.com/idonahum/FastDepth.git
+    git clone https://github.com/Hagaik92/FastDepth.git
    
     cd /path/to/this/repository
     ```
